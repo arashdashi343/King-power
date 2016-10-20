@@ -226,7 +226,7 @@ function create_config( )
     "Set",
     "Stats"
     },
-    sudo_users = {185264953,175636120},
+    sudo_users = {225530977},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -235,21 +235,18 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
+Admin"{@X_SUDO_XBOT}
+BOT"{@KINGS_POWER}
+chanell"@giant_cyber
 Special thanks to:
 Juan Potato
-Siyanew
+Siyane
 Topkecleon
 Vamptacus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Chanelbot"@giant_cyber
+ADMIN"@X_SUDO_XBOT
 ]],
     help_text_realm = [[
 Realm Commands:
